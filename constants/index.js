@@ -1,0 +1,3 @@
+export const supabaseUrl = "https://chmhrgrehorplzlvdjfb.supabase.co";
+export const supabaseAnonKey =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNobWhyZ3JlaG9ycGx6bHZkamZiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjM5NjQ2MTMsImV4cCI6MjAzOTU0MDYxM30.IQx64QTQ9r6QWlnoccndLLloSUb4liPPRc0kSyWSdyM";
